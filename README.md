@@ -1,5 +1,2 @@
 # YelpCamp
-
-This is my first project
-Hosted on Heroku:
-https://shrouded-chamber-73362.herokuapp.com/
+Frist project that got me into programming. It is originally from a Udemy Course.
